@@ -11,4 +11,7 @@ Based on iTunes-bridge:https://github.com/AngryKiller/iTunes-bridge
 - open localhost:8080 in your browser
 
 
-# ToDO
+# TODO
+
+- Search lyrics based on specific id from QQMusic or NetEase Music.
+- Adjust scroll effect
